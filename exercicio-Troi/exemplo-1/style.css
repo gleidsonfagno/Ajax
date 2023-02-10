@@ -1,0 +1,20 @@
+body{
+     background: blue;
+     text-align: center;
+}
+input{
+     margin:  80px auto;
+     width: 90%;
+     display: block;
+     padding: 15px;
+     font-size: 20px;
+     margin-bottom: 15px;
+}
+
+button{
+     color: #fff;
+     background: black;
+     border: none;
+     padding: 20px;
+     font-size: 20px;
+}

@@ -1,0 +1,4 @@
+<h1 style="color: #333; ">esse elmento e um H1 </h1>
+<p>lorem spos</p>
+Esta e a frase do servidor. </br>
+tudo que eu escrever vai ser dito nele
